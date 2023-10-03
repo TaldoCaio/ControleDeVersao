@@ -1,0 +1,10 @@
+.idea/
+*.iml
+*.iws
+*.iws.metadata
+out/
+target/
+log/
+*.log
+*.log.*
+*.last.*
